@@ -6,9 +6,11 @@
 
 
 
-- 🔭 Working on getting my first developer job.
-- 🌱 Learning Python, SQLite, HTML, CSS, Django.
-- 🔭 Also interested in Python for games, Unity and Unreal.
+- 🔭 Working on getting my first developer job
+- 🌱 Learning Python, SQLite, HTML, CSS, Django
+- 💻 Used to work as a graphic designer and English teacher
+- 🎮 Also interested in Python for games, Unity and Unreal
+- 🧉 No to coffee, yes to mate herb   
 - 📫 How to reach me: imelissawebster@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissawebster&show_icons=true&theme=prussian)<p></p>
