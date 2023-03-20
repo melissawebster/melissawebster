@@ -10,7 +10,8 @@
 - 🌱 Learning Python, SQLite, HTML, CSS, Django
 - 💻 Used to work as a graphic designer and English teacher
 - 🎮 Also interested in Python for games, Unity and Unreal
-- 🧉 No to coffee, yes to mate herb   
+- 🌿 No to coffee, yes to mate herb
+- ✨ Non-professional interests: nature, traveling, meditation, music 
 - 📫 How to reach me: imelissawebster@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissawebster&show_icons=true&theme=prussian)<p></p>
