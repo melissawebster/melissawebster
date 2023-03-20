@@ -8,7 +8,7 @@
 
 - 🔭 Working on getting my first developer job
 - 🌱 Learning Python, SQLite, HTML, CSS, Django
-- 💻 Used to work as a graphic designer and English teacher
+- 💻 Used to work as a graphic artist and English teacher
 - 🎮 Also interested in Python for games, Unity and Unreal
 - 🌿 No to coffee, yes to mate herb
 - ✨ Non-professional interests: nature, traveling, meditation, music 
