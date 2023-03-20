@@ -2,7 +2,7 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,django,sqlite)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,html,css,django,vscode,sqlite)](https://skills.thijs.gg)
 
 
 
