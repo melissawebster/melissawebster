@@ -7,7 +7,7 @@
 
 
 - 🔭 Working on getting my first developer job
-- 🌱 Python, SQL, HTML, CSS, Django
+- 🌱 Python, SQL, Git, JavaScript, HTML, CSS, Django
 - 💻 Used to work as a graphic artist and English teacher
 - 🎮 Also interested in Python for games, Unity and Unreal
 - 🌿 No to coffee, yes to mate herb
