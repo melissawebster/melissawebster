@@ -9,7 +9,7 @@
 - 🔭 Working on getting my first developer job
 - 🌱 Python, SQL, Git, JavaScript, HTML, CSS, Django
 - 💻 Used to work as a graphic artist and English teacher
-- 🎮 Also interested in Python for games, Unity and Unreal
+- 🎮 Also interested in game development (Unity and Unreal)
 - 🌿 No to coffee, yes to mate herb
 - ✨ Non-professional interests: nature, traveling, meditation, music 
 - 📫 How to reach me: imelissawebster@gmail.com
