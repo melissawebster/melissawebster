@@ -5,8 +5,6 @@
 [![My Skills](https://skills.thijs.gg/icons?i=py,git,javascript,html,css,django,vscode,sqlite)](https://skills.thijs.gg)
 
 
-
-- 🔭 Working on getting my first developer job
 - 🌱 Python, SQL, Git, JavaScript, HTML, CSS, Django
 - 💻 Used to work as a graphic artist and English teacher
 - 🎮 Also interested in game development (Unity and Unreal)
