@@ -2,10 +2,10 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,git,javascript,html,css,django,vscode,sqlite)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,javascript,html,css,git,django,vscode,sqlite)](https://skills.thijs.gg)
 
 
-- 🌱 Python, SQL, Git, JavaScript, HTML, CSS, Django
+- 🌱 Python, JavaScript, HTML, CSS, Git, SQL, Django
 - 💻 Used to work as a graphic artist and English teacher
 - 🎮 Also interested in game development (Unity and Unreal)
 - 🌿 No to coffee, yes to mate herb
