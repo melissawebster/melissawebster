@@ -2,7 +2,7 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,javascript,html,css,git,django,vscode,sqlite)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,javascript,html,css,git,sqlite)](https://skills.thijs.gg)
 
 
 - 🌱 Python, JavaScript, HTML, CSS, Git, SQL, Django
