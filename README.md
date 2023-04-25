@@ -2,10 +2,10 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,javascript,html,css,git,sqlite)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py,javascript,bootstrap,html,css,git,sqlite)](https://skills.thijs.gg)
 
 
-- 🌱 Python, JavaScript, HTML, CSS, Git, SQL
+- 🌱 Python, JavaScript, Bootstrap, HTML, CSS, Git, SQL
 - 💻 Used to work as a graphic artist and English teacher
 - 🎮 Also interested in game development (Unity and Unreal)
 - 🌿 No to coffee, yes to mate herb
