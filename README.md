@@ -1,10 +1,10 @@
 ### 
 
 
-
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,bootstrap,react,scss,css,html)](https://skills.thijs.gg) || Front-End
-
-[![My Skills](https://skills.thijs.gg/icons?i=python,django,sqlite)](https://skills.thijs.gg) || Back-End
+|| Front-End
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,bootstrap,react,scss,css,html)](https://skills.thijs.gg) 
+|| Back-End
+[![My Skills](https://skills.thijs.gg/icons?i=python,django,sqlite)](https://skills.thijs.gg) 
 
 
 - 🌱 JavaScript, Bootstrap, React, SCSS, CSS, HTML, Git, Python, Django, SQLite
