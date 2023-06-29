@@ -1,7 +1,7 @@
 ### 
 
 || Back-End <p></p>
-[![My Skills](https://skills.thijs.gg/icons?i=python,django,fastapi,sqlalchemy,sqlite)](https://skills.thijs.gg) <br>
+[![My Skills](https://skills.thijs.gg/icons?i=python,django,fastapi,sqlalchemy,pydantic,sqlite)](https://skills.thijs.gg) <br>
 
 || Front-End <p></p>
 [![My Skills](https://skills.thijs.gg/icons?i=javascript,bootstrap,react,scss,css,html)](https://skills.thijs.gg) <p></p>
