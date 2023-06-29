@@ -1,14 +1,12 @@
 ### 
 
+|| Back-End <p></p>
+[![My Skills](https://skills.thijs.gg/icons?i=python,django,fastapi,sqlite)](https://skills.thijs.gg) <br>
 
 || Front-End <p></p>
 [![My Skills](https://skills.thijs.gg/icons?i=javascript,bootstrap,react,scss,css,html)](https://skills.thijs.gg) <p></p>
-|| Back-End <p></p>
-[![My Skills](https://skills.thijs.gg/icons?i=python,django,sqlite)](https://skills.thijs.gg) <br>
 
-
-- 🌱 JavaScript, Bootstrap, React, SCSS, CSS, HTML, Git, Python, Django, SQLite
-- 💻 Used to work as a graphic artist and English teacher
+- 👩‍💻 Python, Django, FastAPI, SQLite
 - 🎮 Also interested in game development (Unity and Unreal)
 - 🌿 No to coffee, yes to mate herb
 - ✨ Non-professional interests: nature, traveling, meditation, music 
