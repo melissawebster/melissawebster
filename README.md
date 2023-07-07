@@ -4,7 +4,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=python,django,fastapi,sqlite)](https://skills.thijs.gg) <br>
 
 || Front-End <p></p>
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,bootstrap,react,scss,css,html)](https://skills.thijs.gg) <p></p>
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,bootstrap,scss)](https://skills.thijs.gg) <p></p>
 
 - 👩‍💻 Python, Django, FastAPI, SQLite
 - 🎮 Also interested in game development (Unity and Unreal)
