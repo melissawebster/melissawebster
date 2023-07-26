@@ -1,7 +1,7 @@
 ### 
 
 || Back-End <p></p>
-[![My Skills](https://skills.thijs.gg/icons?i=python,django,fastapi,sqlite)](https://skills.thijs.gg) <br>
+[![My Skills](https://skills.thijs.gg/icons?i=python,django,fastapi,postgresql,sqlite)](https://skills.thijs.gg) <br>
 
 - 📫 How to reach me: imelissawebster@gmail.com
 
