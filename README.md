@@ -4,7 +4,7 @@
 [![My Skills](https://skills.thijs.gg/icons?i=python,django,fastapi,postgresql,sqlite)](https://skills.thijs.gg) <br>
 
 || Front-End <p></p>
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,bootstrap,css,html)](https://skills.thijs.gg) <br>
+[![My Skills](https://skills.thijs.gg/icons?i=react,javascript,bootstrap,css,html)](https://skills.thijs.gg) <br>
 
 - 📫 How to reach me: imelissawebster@gmail.com
 - 📝 Here I write about coding stuff: https://melissa.hashnode.dev/
