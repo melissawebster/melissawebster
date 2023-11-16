@@ -6,7 +6,7 @@
 || Front-End <p></p>
 [![My Skills](https://skills.thijs.gg/icons?i=react,javascript,typescript,bootstrap)](https://skills.thijs.gg) <br>
 
-- 📝 Full Stack Developer (Junior)
+- 📝 Full Stack Developer (Junior) at Dynaccurate
 - 📝 Analysis and Systems Development (UNISINOS)
 - 📝 How to reach me: imelissawebster@gmail.com
 - 📝 My annotations: [https://github.com/melissawebster/annotations](https://github.com/melissawebster/annotations)
