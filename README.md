@@ -6,7 +6,7 @@
 {
   "languages": ["JavaScript", "TypeScript", "Python"],
   "frameworks": {
-    "frontend": ["React", "React Native", "Next.js"],
+    "frontend": ["React" "Next.js"],
     "backend": ["FastAPI"]
   },
   "ui_toolkit": ["Tailwind CSS", "Radix UI", "shadcn/ui"],
