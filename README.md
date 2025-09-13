@@ -14,7 +14,7 @@
   "databases": ["PostgreSQL", "SQLite"],
   "testing": ["Pytest"],
   "tools": ["Git", "Visual Studio Code"]
-  "code_quality": ["ESLint"],
+  "code_quality": ["ESLint", Prettier],
   "design_tools": ["Figma", "Photoshop"]
 }
 ```
