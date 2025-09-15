@@ -12,7 +12,7 @@
   "ui_toolkit": ["Tailwind CSS", "Radix UI", "shadcn/ui"],
   "form_validation": ["Zod", "React Hook Form"],
   "databases": ["PostgreSQL", "SQLite"],
-  "testing": ["Pytest"],
+  "testing": ["Jest, "React Testing Library", "Pytest"],
   "tools": ["Git", "Visual Studio Code"]
   "code_quality": ["ESLint", "Prettier"],
   "design_tools": ["Figma", "Photoshop"]
