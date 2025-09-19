@@ -7,7 +7,7 @@
   "languages": ["JavaScript", "TypeScript", "Python"],
   "frameworks": {
     "frontend": ["React", "Next.js"],
-    "backend": ["FastAPI"]
+    "backend": ["Node.js", "FastAPI"]
   },
   "ui_toolkit": ["Tailwind CSS", "Radix UI", "shadcn/ui"],
   "form_validation": ["Zod", "React Hook Form"],
