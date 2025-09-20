@@ -22,7 +22,6 @@
 __Byte Bank__ <a href="https://github.com/melissawebster/bytebank" target="_blank">[link]</a><br>
 ◇ Tech Challenge nº 1 for Front End Engineering POS TECH at FIAP<br><br>
 
-
 ### :art: UI Portfolio:
 __Nutrition Mobile App__ <a href="https://embed.figma.com/proto/fE8xTzFuvoipGYZ7ZSqtYf/Nutrition-App?page-id=0%3A1&node-id=194-1851&p=f&viewport=2063%2C852%2C0.42&scaling=scale-down&content-scaling=fixed&starting-point-node-id=165%3A506&embed-host=share" target="_blank">[link]</a> <br>
 ◇ This user-centric nutrition app was a client project from my previous role, designed for a nutritionist to distribute personalized meal plans and recipes to her patients.
