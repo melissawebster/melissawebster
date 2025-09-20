@@ -21,8 +21,6 @@
 ### :rice_scene: Front-End Portfolio:
 __Byte Bank__ <a href="https://github.com/melissawebster/bytebank" target="_blank">[link]</a><br>
 ◇ Tech Challenge nº 1 for Front End Engineering POS TECH at FIAP<br><br>
-__Drug Admin API__ <a href="https://github.com/melissawebster/drug-admin-api" target="_blank">[link]</a><br>
-◇ Drug stock management web application
 
 
 ### :art: UI Portfolio:
