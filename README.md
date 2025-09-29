@@ -1,6 +1,6 @@
 ### Hello, folks! 
 :ear_of_rice: My name is Melissa Webster and I'm a Front-End Developer with 2 years in the field, specialized in React/Next.js and UI. <br />
-:telescope: I'm currently looking for a new opportunity to improve my skills and contribute on a professional team.
+:telescope: I'm currently looking for a new job position!
 
 ```json
 {
