@@ -1,5 +1,5 @@
 ### Hello, folks! 
-:ear_of_rice: My name is Melissa Webster and I'm a Front-End Developer with 2 years in the field, specialized in React/Next.js and UX/UI. <br />
+:ear_of_rice: My name is Melissa Webster and I'm a Front-End Developer with 2 years in the field, specialized in React/Next.js with a focus on UX/UI. <br />
 :telescope: I'm currently looking for a new job position!
 
 ```json
