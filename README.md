@@ -1,7 +1,7 @@
 ### Hello, folks! 
 :ear_of_rice: My name is Melissa and I'm a Front-End Developer with 2+ years in the field <br />
 :rocket: Specialized in React/Next.js with a focus on UX/UI <br />
-:telescope: I'm currently looking for a new job position!
+:flags: I'm currently looking for a new job position!
 
 ```json
 {
@@ -29,7 +29,7 @@ __Byte Bank__ <a href="https://bytebank-pied.vercel.app/" target="_blank">[link]
 ◇ Stack: Next.js
 
 __Nutria__ <a href="https://www.figma.com/design/fE8xTzFuvoipGYZ7ZSqtYf/Nutrition-App?node-id=0-1&t=hY7T7C5FvTsEzHBP-1" target="_blank">[link]</a><br />
-◇ Nutritionist Application | Mobile App (Figma project for a real client)<br />
+◇ Nutritionist Application | Mobile App (UX/UI project for a real client)<br />
 ◇ Stack: Figma
 <hr />
 
