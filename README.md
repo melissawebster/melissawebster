@@ -1,10 +1,11 @@
 ### Hello, folks! 
-:ear_of_rice: My name is Melissa Webster and I'm a Front-End Developer with 2 years in the field, specialized in React/Next.js with a focus on UX/UI. <br />
+:ear_of_rice: My name is Melissa and I'm a Front-End Developer with 2+ years in the field <br />
+:rocket: Specialized in React/Next.js with a focus on UX/UI <br />
 :telescope: I'm currently looking for a new job position!
 
 ```json
 {
-  "languages": ["JavaScript", "TypeScript", "Python"],
+  "languages": ["JavaScript / TypeScript", "Python"],
   "frameworks": {
     "frontend": ["React", "Next.js"],
     "backend": ["Node.js", "FastAPI"]
@@ -18,26 +19,21 @@
   "design_tools": ["Figma", "Photoshop"]
 }
 ```
-### :rice_scene: Front-End Portfolio:
+### :rice_scene: Portfolio:
 __EverTask__ <a href="https://everest-ui-test-psi.vercel.app/" target="_blank">[link]</a><br> 
-◇ Assessment for Everest Systems - a simple and responsive to-do list app <a href="https://github.com/melissawebster/everest-ui-test" target="_blank">[repo]</a><br>
+◇ Task Manager | Web App (Assessment for Everest Systems) <a href="https://github.com/melissawebster/everest-ui-test" target="_blank">[repo]</a><br />
+◇ Stack: Figma | React
 
 __Byte Bank__ <a href="https://bytebank-pied.vercel.app/" target="_blank">[link]</a><br>
-◇ Tech Challenge nº 1 for Front End Engineering POS TECH at FIAP <a href="https://github.com/melissawebster/bytebank" target="_blank">[repo]</a> <br>
+◇ Fictional bank | Website (Tech Challenge for Front End Engineering POS TECH at FIAP) <a href="https://github.com/melissawebster/bytebank" target="_blank">[repo]</a><br />
+◇ Stack: Next.js
 
-<hr />
-
-### :art: UX/UI Portfolio:
-__Nutrition Mobile App__ <a href="https://www.figma.com/design/fE8xTzFuvoipGYZ7ZSqtYf/Nutrition-App?node-id=0-1&t=hY7T7C5FvTsEzHBP-1" target="_blank">[link]</a> <br>
-◇ Designed for a nutritionist to distribute personalized meal plans and recipes to patients (unfinished)
-
+__Nutria__ <a href="https://www.figma.com/design/fE8xTzFuvoipGYZ7ZSqtYf/Nutrition-App?node-id=0-1&t=hY7T7C5FvTsEzHBP-1" target="_blank">[link]</a><br />
+◇ Nutritionist Application | Mobile App (Figma project for a real client)<br />
+◇ Stack: Figma
 <hr />
 
 ### 🖥️ Professional Experience:
-__Dynaccurate__ (2 years) | Front-End Developer role
-
+__Dynaccurate__ (2+ years) | Front-End Developer / UX/UI 
 <hr />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissawebster&show_icons=true&theme=prussian)<p></p>
-
 
