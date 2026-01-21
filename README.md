@@ -20,15 +20,15 @@
 }
 ```
 ### :rice_scene: Portfolio:
-__EverTask__ <a href="https://everest-ui-test-psi.vercel.app/" target="_blank">[link]</a><br> 
+__EverTask__ <a href="https://everest-ui-test-psi.vercel.app/" target="_blank">[deployed on Vercel]</a><br> 
 ◇ Task Manager | Web App (Assessment for Everest Systems) <a href="https://github.com/melissawebster/everest-ui-test" target="_blank">[repo]</a><br />
 ◇ Stack: Figma | React
 
-__Byte Bank__ <a href="https://bytebank-pied.vercel.app/" target="_blank">[link]</a><br>
+__Byte Bank__ <a href="https://bytebank-pied.vercel.app/" target="_blank">[deployed on Vercel]</a><br>
 ◇ Fictional bank | Website (Tech Challenge for Front End Engineering POS TECH at FIAP) <a href="https://github.com/melissawebster/bytebank" target="_blank">[repo]</a><br />
 ◇ Stack: Next.js
 
-__Nutria__ <a href="https://www.figma.com/design/fE8xTzFuvoipGYZ7ZSqtYf/Nutrition-App?node-id=0-1&t=hY7T7C5FvTsEzHBP-1" target="_blank">[link]</a><br />
+__Nutria__ <a href="https://www.figma.com/design/fE8xTzFuvoipGYZ7ZSqtYf/Nutrition-App?node-id=0-1&t=hY7T7C5FvTsEzHBP-1" target="_blank">[designed on Figma]</a><br />
 ◇ Nutritionist Application | Mobile App (UX/UI project for a real client)<br />
 ◇ Stack: Figma
 <hr />
