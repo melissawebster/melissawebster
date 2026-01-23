@@ -1,5 +1,5 @@
 ### Hello, folks! 
-:ear_of_rice: My name is Melissa and I'm a Front-End Developer with 2+ years in the field <br />
+:ear_of_rice: My name is Melissa and I'm a Front-End Developer with 3+ years in the field <br />
 :rocket: Specialized in React/Next.js with a focus on UX/UI <br />
 :flags: I'm currently looking for a new job position!
 
